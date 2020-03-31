@@ -1,3 +1,3 @@
 # Understanding Git Branches
 
-I'm trying to figure out how brnaches work now.
+I'm trying to figure out how branches work now.
